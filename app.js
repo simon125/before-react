@@ -36,6 +36,6 @@ const renderPost = (post) => {
   document.querySelector("main.container").appendChild(article);
 };
 
-wpisy.forEach((wpis) => {
-  renderPost(wpis);
-});
+// wpisy.forEach((wpis) => {
+//   renderPost(wpis);
+// });
